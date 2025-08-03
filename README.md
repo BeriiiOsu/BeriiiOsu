@@ -33,7 +33,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beriiiosu&show_icons=true&locale=en&layout=compact&theme=dracula" alt="beriiiosu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beriiiosu&show_icons=true&locale=en&layout=compact&theme=dracula" alt="beriiiosu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beriiiosu&show_icons=true&locale=en&theme=dracula" alt="beriiiosu" /></p>
 
@@ -41,4 +41,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BeriiiOsu/BeriiiOsu/output/snake.svg" alt="Snake animation" />
+</div>
