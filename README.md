@@ -41,10 +41,7 @@
 
 ---
 
-### Activity:
-<div align="center">
-  <figure><embed src="https://wakatime.com/share/@30780e03-d916-4824-8ffc-efa7f79bd9df/7e436ad7-8250-4e96-bb0a-6bbca56a4de2.svg"></embed></figure>
-</div>
+### My WakaTime Stats
 
 ---
 
