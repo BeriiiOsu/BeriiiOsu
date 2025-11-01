@@ -15,7 +15,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-- 🔭 I’m currently working on [Hotel Management System](https://github.com/BeriiiOsu/Hotel-Management)
+- 🔭 I’m currently working on [Hotel Management System](https://github.com/BeriiiOsu/Group6_BT3101)
 
 - 🌱 I’m currently learning **C#, Python, SQL, C++, HTML, CSS, and JavaScript**
 
