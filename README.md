@@ -1,52 +1,59 @@
-<h1 align="center">Hi 👋, I'm Gary Aguilar</h1>
-<h3 align="center">A passionate backend developer from Philippines</h3>
+# Hi, I'm Gary Aguilar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beriiiosu&label=Profile%20views&color=0e75b6&style=flat" alt="beriiiosu" /> </p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BeriiiOsu/BeriiiOsu/output/snake.svg" alt="Snake animation" />
-</div>
+Software developer based in Balayan, Batangas, Philippines. I enjoy building practical desktop and web applications — from ATM systems and student management apps to budget trackers — with a focus on clean code and useful features.
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beriiiosu" alt="beriiiosu" /></a> </p>
+## About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-- 🌱 I’m currently learning **C#, Python, SQL, C++, HTML, CSS, and JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BeriiiOsu](https://github.com/BeriiiOsu)
-
-- 💬 Ask me about **Java and C#**
-
-- 📫 How to reach me **beriii.personal@gmail.com**
+- Currently building small, real-world projects to sharpen my skills across multiple stacks
+- Comfortable working across **desktop, web, and database** layers
+- Interested in MVC architecture, clean UI, and offline-first tools
+- Always exploring new languages and frameworks
 
 ---
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beriiiosu&show_icons=true&locale=en&layout=compact&theme=dracula" alt="beriiiosu" /></p>
-</div>
+## Tech Stack
 
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beriiiosu&show_icons=true&locale=en&theme=dracula" alt="beriiiosu" /></p>
-</div>
+**Main languages**
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beriiiosu&theme=dracula" alt="beriiiosu" /></p>
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Also fluent in**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/beriiiofficial" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
-<a href="https://fb.com/its.me.beriiiosu" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
-<a href="https://instagram.com/beriiiosu" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-</p>
+## Currently Learning
+
+- Deepening my **C# / .NET** skills with MVC and Entity Framework
+- Strengthening **SQL** fundamentals and query optimization
+- Exploring **modern JavaScript** and front-end frameworks
+- Improving software design patterns and writing cleaner, more maintainable code
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Featured Projects
+
+- **[Budget-Tracker](https://github.com/BeriiiOsu/Budget-Tracker)** — Offline student budget tracker built in Java
+- **[StudentMVCApp](https://github.com/BeriiiOsu/StudentMVCApp)** — Student management system using the MVC pattern in C#
+- **[AutomatedTellerMachine-java](https://github.com/BeriiiOsu/AutomatedTellerMachine-java)** — Working ATM simulation in Java
+- **[A-Star-Algorithm](https://github.com/BeriiiOsu/A-Star-Algorithm)** — Pathfinding implementation in Java
+
+---
+
+*Thanks for stopping by my profile!*
